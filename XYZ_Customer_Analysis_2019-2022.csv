@@ -1,0 +1,249 @@
+membership_id,creation_date,churned,company,country_state,key_account_manager,animation_team,membership_plan,membership_payment_total,project_payment_total,additional_service_total,charged_total
+1,2019-04-25,True,"Bayer, Gleason and Macejkovic", Oklahoma,Sapu Jagad,Gundala,Custom,1996.0,0.0,0.0,1996.0
+2,2019-05-14,True,Schmidt - Klocko, Massachusetts,Sapu Jagad,Gundala,Custom,,,,
+4,2019-06-06,False,Jacobson - Blick, Massachusetts,Alice,Gundala,Custom,,,,
+5,2019-06-06,True,Buckridge - Beier, Arkansas,Alice,Gundala,Bronze,,,,
+6,2019-06-06,False,Hermann Inc, Montana,George,Ironman,Silver,3371.25,0.0,0.0,3371.25
+7,2019-07-05,True,Marquardt LLC, Maine,Sapu Jagad,Ironman,Bronze,499.0,0.0,499.0,998.0
+8,2019-07-08,True,Reinger - Mitchell, Florida,Alice,Gundala,Bronze,,,,
+11,2019-08-06,False,"Hane, Pagac and Kerluke", New Mexico,Alice,Gundala,Custom,,,,
+12,2019-08-07,False,"Barrows, Rice and Morar", Colorado,Agus Budi,Ironman,Bronze,,,,
+13,2019-09-10,True,Kunze - Terry, Oklahoma,Alice,Gundala,Custom,,,,
+14,2019-09-10,False,Marks Inc, Idaho,George,Wonderwoman,Silver,5994.0,0.0,999.0,6993.0
+15,2019-09-25,True,"West, Torphy and Hilpert", Georgia,Agus Budi,Wonderwoman,Silver,499.0,0.0,3992.0,4491.0
+16,2019-09-25,True,"Watsica, Kling and MacGyver", Florida,Sapu Jagad,Gundala,Custom,,,,
+17,2019-09-25,True,"Jacobi, Kessler and Schuster", Louisiana,Alice,Gundala,Silver,,,,
+18,2019-09-25,False,MacGyver LLC, Pennsylvania,George,Gundala,Bronze,998.0,0.0,4990.0,5988.0
+19,2019-10-02,False,"McClure, Christiansen and Kling", Wyoming,Agus Budi,Wonderwoman,Bronze,2994.0,0.0,6986.0,9980.0
+20,2019-10-29,False,Walsh - Beer, Vermont,Agus Budi,Wonderwoman,Silver,1497.0,0.0,5992.0,7489.0
+21,2019-10-29,True,"Braun, Ferry and Gerhold", Utah,Alice,Gundala,Bronze,2495.0,0.0,0.0,2495.0
+22,2019-11-11,True,Robel - Feest, Alabama,Agus Budi,Ironman,Bronze,13485.0,0.0,0.0,13485.0
+23,2019-11-19,True,"Welch, Mayer and Osinski", Kentucky,Agus Budi,Ironman,Bronze,,,,
+25,2019-12-12,False,"Beatty, Quitzon and Reichert", Montana,Sapu Jagad,Wonderwoman,Bronze,0.0,0.0,1497.0,1497.0
+67,2020-01-06,True,Nitzsche Inc, Illinois,Alice,Gundala,Bronze,1996.0,0.0,0.0,1996.0
+70,2020-01-31,True,"O'Keefe, Klein and Kshlerin", Nevada,Agus Budi,Wonderwoman,Bronze,499.0,0.0,998.0,1497.0
+71,2020-02-03,True,Stiedemann Group, Georgia,Agus Budi,Spiderman,Gold,,,,
+73,2020-02-13,True,Kilback and Sons, Ohio,Alice,Wonderwoman,Bronze,16856.25,0.0,0.0,16856.25
+74,2020-02-24,True,Blick Group, New Mexico,Agus Budi,Spiderman,Silver,499.0,0.0,1996.0,2495.0
+75,2020-02-26,True,"Swaniawski, Gerlach and Emmerich", Arizona,Agus Budi,Wonderwoman,Bronze,,,,
+76,2020-03-03,True,Beier Group, New York,George,Spiderman,Bronze,23598.75,0.0,2247.5,25846.25
+77,2020-03-03,True,"Wunsch, Wiza and Miller", Texas,Agus Budi,Wonderwoman,Bronze,,,,
+78,2020-03-05,True,Reilly - Hane, Georgia,Alice,Spiderman,Bronze,499.0,0.0,0.0,499.0
+79,2020-03-18,True,Borer - Thiel, Missouri,Alice,Gundala,Bronze,,,,
+80,2020-03-19,False,"Waelchi, Mann and Hansen", Florida,Sapu Jagad,Spiderman,Bronze,0.0,0.0,499.0,499.0
+82,2020-04-02,True,Aufderhar - Kunde, Wyoming,George,Spiderman,Bronze,23598.75,0.0,0.0,23598.75
+83,2020-04-06,True,O'Keefe - Orn, Wyoming,Alice,Spiderman,Silver,,,,
+84,2020-04-09,False,Stroman Inc, Florida,Sapu Jagad,Wonderwoman,Bronze,,,,
+85,2020-04-14,True,Corkery - Cronin, Massachusetts,George,Deadpool,Bronze,,,,
+86,2020-04-24,False,Wehner and Sons, Minnesota,Agus Budi,Deadpool,Bronze,0.0,0.0,1996.0,1996.0
+87,2020-04-29,True,"Kovacek, Schmitt and Veum", Florida,Derek,Wonderwoman,Bronze,0.0,0.0,998.0,998.0
+88,2020-05-05,False,Moen - Farrell, North Carolina,Sapu Jagad,Wonderwoman,Bronze,0.0,0.0,1497.0,1497.0
+89,2020-05-07,True,Kshlerin and Sons, Massachusetts,Alice,Gundala,Bronze,3371.25,0.0,0.0,3371.25
+90,2020-05-07,True,"Turcotte, Fadel and Grady", New Mexico,Alice,Deadpool,Bronze,,,,
+91,2020-05-11,True,"Bednar, Mayert and Weimann", Iowa,Alice,Gundala,Bronze,,,,
+92,2020-05-22,True,"Gutmann, Fay and Effertz", Massachusetts,Derek,Deadpool,Bronze,,,,
+93,2020-05-28,True,Reynolds - Funk, Virginia,Alice,Gundala,Bronze,,,,
+94,2020-06-03,True,Abbott Group, Nebraska,Alice,Gundala,Custom,,,,
+95,2020-06-11,True,"Dibbert, Collier and Sauer", Nebraska,Agus Budi,Deadpool,Bronze,,,,
+96,2020-06-11,True,"Dietrich, Pouros and Quitzon", Alabama,Agus Budi,Deadpool,Gold,0.0,0.0,499.0,499.0
+97,2020-06-15,False,Steuber - Bechtelar, West Virginia,Sapu Jagad,Deadpool,Silver,,,,
+98,2020-06-30,True,"Schinner, Rau and Kshlerin", Arkansas,George,Ironman,Bronze,,,,
+99,2020-07-08,True,"Barrows, Ledner and Dickens", Oregon,Alice,Wolverine,Silver,,,,
+100,2020-07-13,True,"Bahringer, Gaylord and Luettgen", South Dakota,Agus Budi,Spiderman,Silver,,,,
+101,2020-07-16,True,Larson and Sons, Delaware,Sapu Jagad,Spiderman,Bronze,4261.37,0.0,998.0,5259.37
+102,2020-07-24,True,"Kreiger, Schumm and Christiansen", Massachusetts,Agus Budi,Wonderwoman,Bronze,,,,
+103,2020-07-27,False,"Ledner, Skiles and Muller", North Dakota,Sapu Jagad,Gundala,Bronze,19734.49,0.0,0.0,19734.49
+104,2020-08-11,True,Boyle - Lemke, Tennessee,Alice,Spiderman,Bronze,0.0,0.0,999.0,999.0
+105,2020-08-11,True,Lind LLC, New Hampshire,George,Deadpool,Bronze,499.0,0.0,0.0,499.0
+106,2020-08-13,True,"Stiedemann, Bashirian and Hagenes", Texas,Alice,Gundala,Bronze,,,,
+107,2020-08-17,True,"Schuppe, Jenkins and Leuschke", Massachusetts,Sapu Jagad,Deadpool,Silver,3236.4,0.0,0.0,3236.4
+108,2020-08-25,True,Beier Group, Hawaii,Agus Budi,Ironman,Bronze,,,,
+109,2020-08-31,False,Weimann - Greenfelder, West Virginia,Agus Budi,Wonderwoman,Bronze,,,,
+110,2020-09-01,False,Rutherford - Krajcik, Nebraska,George,Spiderman,Bronze,16513.48,0.0,1188.51,17701.99
+111,2020-09-07,True,"Cormier, McClure and Larkin", Indiana,George,Wolverine,Gold,28974.97,1162.55,0.0,30137.52
+112,2020-09-07,True,Bednar - Stokes, Minnesota,George,Wolverine,Gold,33842.9,0.0,0.0,33842.9
+113,2020-09-16,True,Lang LLC, Arizona,George,Deadpool,Gold,,,,
+114,2020-09-16,True,"White, Schroeder and O'Connell", Oregon,Agus Budi,Wolverine,Bronze,,,,
+115,2020-09-23,True,Langworth Group, Nevada,Sapu Jagad,Ironman,Silver,,,,
+116,2020-09-25,True,Lang Inc, South Carolina,Sapu Jagad,Gundala,Bronze,,,,
+117,2020-10-02,False,Senger Group, Virginia,Agus Budi,Deadpool,Gold,,,,
+118,2020-10-19,True,Rath LLC, New Hampshire,Agus Budi,Ironman,Silver,,,,
+119,2020-11-04,False,"Mraz, Schroeder and Nikolaus", Idaho,Sapu Jagad,Wonderwoman,Bronze,,,,
+120,2020-11-11,True,"Wisozk, Kihn and Denesik", New Jersey,Sapu Jagad,Deadpool,Bronze,,,,
+121,2020-11-12,True,Parker LLC, Texas,Alice,Wonderwoman,Bronze,,,,
+123,2020-11-19,True,"Raynor, Hermann and Toy", Colorado,Sapu Jagad,Gundala,Bronze,998.0,0.0,0.0,998.0
+124,2020-11-19,True,Langosh LLC, Vermont,Sapu Jagad,Gundala,Bronze,1123.75,0.0,0.0,1123.75
+125,2020-11-24,True,"Schmidt, Daugherty and Tillman", Pennsylvania,Alice,Gundala,Bronze,1123.75,0.0,0.0,1123.75
+127,2020-12-01,False,Brown - Hammes, Wisconsin,Alice,Spiderman,Silver,,,,
+128,2020-12-01,True,"Becker, Wiza and Cormier", Connecticut,Sapu Jagad,Deadpool,Gold,,,,
+129,2020-12-01,False,"Weissnat, VonRueden and Daugherty", Alaska,Sapu Jagad,Wonderwoman,Silver,55903.0,0.0,0.0,55903.0
+130,2020-12-04,True,Ryan Inc, Colorado,Agus Budi,Spiderman,Silver,499.0,0.0,0.0,499.0
+131,2020-12-07,True,Ritchie - Zboncak, South Carolina,George,Wonderwoman,Bronze,,,,
+132,2020-12-08,True,Green and Sons, New Mexico,Agus Budi,Wonderwoman,Bronze,,,,
+133,2020-12-09,True,"Sipes, Lang and Hartmann", Texas,Agus Budi,Wonderwoman,Bronze,,,,
+134,2020-12-09,True,"Rempel, Hauck and Lehner", Kansas,Alice,Wolverine,Bronze,0.0,0.0,998.0,998.0
+135,2020-12-17,True,"Padberg, Stokes and Reilly", Nevada,Alice,Spiderman,Silver,,,,
+136,2020-12-18,False,Hartmann Group, Alaska,George,Wonderwoman,Bronze,,,,
+137,2020-12-22,False,Ernser Inc, North Dakota,Sapu Jagad,Deadpool,Bronze,,,,
+138,2020-12-22,True,Cole Group, Kansas,Sapu Jagad,Deadpool,Bronze,21974.0,0.0,1497.0,23471.0
+139,2021-01-04,True,"Stokes, Wolff and Streich", North Carolina,Sapu Jagad,Gundala,Gold,0.0,0.0,6993.0,6993.0
+140,2021-01-04,False,Davis Group, Georgia,Agus Budi,Gundala,Bronze,,,,
+141,2021-01-04,True,Konopelski and Sons, Wisconsin,George,Ironman,Bronze,,,,
+142,2021-01-04,True,Cummerata Group, Illinois,Agus Budi,Deadpool,Silver,,,,
+143,2021-01-04,True,Ondricka - Maggio, Oregon,Sapu Jagad,Wonderwoman,Bronze,632.0,0.0,2613.51,3245.51
+144,2021-01-04,False,"Kovacek, Windler and Greenholt", North Carolina,Agus Budi,Wolverine,Silver,,,,
+145,2021-01-04,True,Bayer Inc, Vermont,Sapu Jagad,Gundala,Bronze,499.0,0.0,0.0,499.0
+146,2021-01-04,False,Torp LLC, Missouri,Alice,Ironman,Silver,,,,
+147,2021-01-05,False,Aufderhar LLC, Illinois,George,Deadpool,Gold,,,,
+148,2021-01-05,True,Murazik LLC, North Dakota,George,Deadpool,Bronze,803.0,0.0,6074.95,6877.95
+149,2021-01-05,True,Bashirian - Kuhic, Nebraska,Agus Budi,Gundala,Bronze,,,,
+150,2021-01-05,True,Hackett Inc, Kentucky,Sapu Jagad,Gundala,Bronze,2247.5,0.0,1123.75,3371.25
+151,2021-01-06,True,Kuhlman - Larkin, Hawaii,Agus Budi,Ironman,Bronze,,,,
+152,2021-01-06,True,Streich - Hackett, Texas,Sapu Jagad,Wolverine,Bronze,,,,
+153,2021-01-06,True,Walker Inc, Arkansas,George,Wonderwoman,Silver,12486.0,0.0,5994.0,18480.0
+154,2021-01-11,True,Jacobson - Rippin, Texas,Agus Budi,Deadpool,Bronze,,,,
+155,2021-01-11,True,Johnson LLC, Iowa,Sapu Jagad,Gundala,Bronze,4387.12,0.0,0.0,4387.12
+156,2021-01-15,True,"Sipes, West and Harvey", Utah,Derek,Ironman,Bronze,0.0,0.0,499.0,499.0
+157,2021-01-18,False,"Kohler, Johnston and Crist", Maine,George,Spiderman,Bronze,,,,
+158,2021-01-18,False,Bogisich LLC, Utah,George,Gundala,Bronze,,,,
+159,2021-01-21,True,"Sawayn, Stoltenberg and Romaguera", Kentucky,Alice,Wolverine,Gold,,,,
+160,2021-01-25,False,Ziemann - Ferry, Nevada,Agus Budi,Ironman,Bronze,9481.0,0.0,0.0,9481.0
+161,2021-01-25,False,Bartell - Gutkowski, South Dakota,George,Deadpool,Bronze,3371.25,0.0,0.0,3371.25
+162,2021-01-25,True,"Graham, Conroy and Auer", West Virginia,Agus Budi,Gundala,Bronze,,,,
+163,2021-01-28,False,"Cartwright, Wolf and Marks", Maine,Alice,Spiderman,Bronze,6850.38,0.0,998.0,7848.38
+164,2021-01-28,True,"Wolf, Bruen and Hackett", North Dakota,Alice,Wonderwoman,Bronze,,,,
+165,2021-02-03,True,Lakin Inc, Wisconsin,Sapu Jagad,Spiderman,Bronze,499.0,0.0,0.0,499.0
+166,2021-02-05,True,Gleichner - Watsica, Oregon,Alice,Spiderman,Bronze,,,,
+167,2021-02-09,True,"Koepp, Stracke and Miller", New Jersey,Sapu Jagad,Wolverine,Bronze,1497.0,0.0,0.0,1497.0
+169,2021-02-11,False,"Cartwright, Rowe and Sanford", New York,Agus Budi,Spiderman,Bronze,,,,
+170,2021-02-17,False,Gerlach Group, Connecticut,George,Gundala,Bronze,,,,
+171,2021-02-25,True,Mohr Group, Maine,George,Wonderwoman,Gold,0.0,0.0,9988.0,9988.0
+172,2021-03-01,False,Hand - Rohan, West Virginia,George,Wonderwoman,Bronze,6273.0599999999995,0.0,0.0,6273.06
+173,2021-03-01,True,"Flatley, Gleason and Mills", Wyoming,Derek,Spiderman,Bronze,998.0,0.0,0.0,998.0
+174,2021-03-03,True,VonRueden - Denesik, California,Agus Budi,Spiderman,Silver,18981.0,0.0,2997.0,21978.0
+175,2021-03-09,True,Wolff - McCullough, Alaska,Agus Budi,Gundala,Bronze,1996.0,0.0,0.0,1996.0
+176,2021-03-12,True,Cronin - Little, Nebraska,Alice,Wolverine,Silver,0.0,9158.75,0.0,9158.75
+177,2021-03-18,False,"Renner, Fritsch and McDermott", New Mexico,Sapu Jagad,Wonderwoman,Bronze,,,,
+178,2021-03-18,True,"Williamson, Rohan and Beer", Iowa,George,Spiderman,Bronze,23598.75,0.0,0.0,23598.75
+179,2021-03-22,True,DuBuque and Sons, Vermont,George,Gundala,Bronze,8483.0,0.0,0.0,8483.0
+180,2021-03-29,True,Tremblay and Sons, Iowa,Alice,Spiderman,Bronze,,,,
+181,2021-03-30,True,Franecki and Sons, Pennsylvania,George,Ironman,Silver,,,,
+182,2021-04-01,True,McCullough - Dietrich, Wyoming,Agus Budi,Wonderwoman,Bronze,,,,
+183,2021-04-06,True,"Ziemann, Lakin and Nolan", Utah,Agus Budi,Wonderwoman,Gold,2997.0,0.0,1998.0,4995.0
+184,2021-04-06,True,Purdy - Langosh, Oregon,George,Ironman,Silver,27347.53,0.0,0.0,27347.53
+185,2021-04-16,False,Corkery Inc, Florida,Agus Budi,Ironman,Bronze,0.0,0.0,499.0,499.0
+186,2021-04-21,True,Ratke - Hilll, Rhode Island,Agus Budi,Spiderman,Bronze,,,,
+187,2021-05-03,True,Daniel Inc, Missouri,Agus Budi,Gundala,Bronze,,,,
+188,2021-05-03,False,Reynolds Inc, North Carolina,Sapu Jagad,Wonderwoman,Silver,,,,
+189,2021-05-04,True,"Berge, Jones and Rohan", Iowa,George,Gundala,Bronze,,,,
+190,2021-05-05,True,Mills LLC, Nebraska,Alice,Gundala,Bronze,,,,
+191,2021-05-18,True,"Ratke, Goldner and Rogahn", New York,Sapu Jagad,Gundala,Bronze,1123.75,0.0,0.0,1123.75
+192,2021-05-24,True,Ferry Group, Connecticut,Agus Budi,Deadpool,Silver,16479.0,0.0,13483.0,29962.0
+193,2021-05-24,True,"Kuvalis, Bruen and McCullough", Minnesota,Agus Budi,Spiderman,Bronze,,,,
+194,2021-05-28,False,Kshlerin LLC, New York,Alice,Spiderman,Bronze,,,,
+195,2021-06-02,False,Shanahan - Rippin, Maryland,Agus Budi,Wonderwoman,Bronze,23790.48,0.0,0.0,23790.48
+196,2021-06-03,True,Daniel and Sons, Wisconsin,George,Wonderwoman,Bronze,,,,
+197,2021-06-03,True,Mayer LLC, Oregon,George,Wolverine,Bronze,10113.75,0.0,0.0,10113.75
+198,2021-06-07,False,Ullrich - Gaylord, Vermont,Sapu Jagad,Gundala,Bronze,998.0,0.0,0.0,998.0
+199,2021-06-08,False,Mosciski - Kuhic, Massachusetts,George,Ironman,Bronze,9709.2,0.0,0.0,9709.2
+200,2021-06-08,True,"Powlowski, Nolan and Ritchie", Iowa,Derek,Spiderman,Bronze,499.0,0.0,0.0,499.0
+201,2021-06-21,False,"Osinski, Satterfield and Mayert", New York,Sapu Jagad,Gundala,Bronze,,,,
+202,2021-06-30,False,Muller - Gottlieb, Virginia,Sapu Jagad,Gundala,Bronze,,,,
+203,2021-07-01,False,Robel and Sons, Georgia,Sapu Jagad,Ironman,Silver,,,,
+204,2021-07-01,False,Schmitt - Fay, New York,Sapu Jagad,Ironman,Silver,,,,
+205,2021-07-06,True,Johns LLC, Illinois,George,Ironman,Bronze,,,,
+206,2021-07-13,True,Erdman LLC, Indiana,Sapu Jagad,Gundala,Bronze,,,,
+207,2021-07-16,True,Runolfsdottir - Block, Kentucky,Agus Budi,Wonderwoman,Bronze,499.0,0.0,0.0,499.0
+208,2021-07-22,False,Gerhold - Labadie, Wisconsin,Agus Budi,Ironman,Silver,10540.0,0.0,0.0,10540.0
+209,2021-07-26,False,Littel - Labadie, Oregon,George,Wolverine,Bronze,,,,
+210,2021-07-26,False,Johnston and Sons, Wisconsin,Sapu Jagad,Spiderman,Bronze,2495.0,0.0,0.0,2495.0
+211,2021-08-10,True,"Rau, Kuvalis and Durgan", Indiana,Sapu Jagad,Spiderman,Silver,19864.23,0.0,0.0,19864.23
+212,2021-08-20,True,Bogan LLC, Arizona,Sapu Jagad,Ironman,Silver,0.0,0.0,999.0,999.0
+213,2021-08-24,True,"Marks, Dare and Howe", New Mexico,Agus Budi,Wonderwoman,Bronze,,,,
+214,2021-08-31,False,Fay - Yost, New Jersey,George,Wonderwoman,Gold,0.0,0.0,1998.0,1998.0
+215,2021-09-06,True,Quitzon and Sons, Indiana,George,Gundala,Bronze,20227.5,0.0,0.0,20227.5
+216,2021-09-08,False,Vandervort and Sons, Nevada,Sapu Jagad,Gundala,Custom,,,,
+217,2021-09-15,True,Treutel LLC, Idaho,George,Spiderman,Bronze,,,,
+218,2021-09-17,False,Dickinson and Sons, Alaska,Sapu Jagad,Ironman,Silver,,,,
+219,2021-09-17,False,Sawayn - Wiza, Maine,Agus Budi,Spiderman,Silver,,,,
+220,2021-09-21,False,Murphy - Fay, Nevada,Sapu Jagad,Deadpool,Bronze,,,,
+221,2021-09-24,False,Sporer and Sons, Louisiana,Agus Budi,Gundala,Bronze,,,,
+222,2021-10-06,False,"Pouros, Marquardt and Bechtelar", Michigan,Sapu Jagad,Spiderman,Bronze,,,,
+223,2021-10-07,False,"Denesik, Legros and Friesen", Tennessee,Sapu Jagad,Gundala,Custom,,,,
+224,2021-10-08,True,Cronin - Jaskolski, Rhode Island,Agus Budi,Deadpool,Bronze,,,,
+225,2021-10-11,False,Raynor LLC, Oklahoma,Alice,Deadpool,Silver,,,,
+226,2021-10-14,True,Leuschke LLC, Maine,George,Gundala,Bronze,,,,
+227,2021-10-18,False,Bins - Stark, Wisconsin,Agus Budi,Ironman,Silver,,,,
+228,2021-10-18,False,"Borer, Baumbach and Grant", Ohio,George,Gundala,Bronze,,,,
+229,2021-11-02,False,"Effertz, McLaughlin and Schinner", Nevada,Sapu Jagad,Deadpool,Bronze,0.0,0.0,998.0,998.0
+230,2021-11-05,True,Daniel - Beatty, Florida,George,Spiderman,Bronze,13485.0,0.0,0.0,13485.0
+231,2021-11-09,True,"Jacobs, Braun and Turcotte", Oregon,Alice,Gundala,Silver,,,,
+232,2021-11-16,False,Jerde - Wuckert, Utah,Agus Budi,Gundala,Bronze,,,,
+233,2021-11-17,True,Gorczany LLC, Maine,Sapu Jagad,Wonderwoman,Bronze,499.0,0.0,0.0,499.0
+234,2021-11-26,True,Purdy and Sons, Idaho,Agus Budi,Spiderman,Bronze,,,,
+235,2021-11-26,True,"Johnson, Littel and Bernier", Colorado,George,Ironman,Bronze,,,,
+236,2021-11-30,True,Kertzmann - Hauck, Nevada,Alice,Ironman,Bronze,499.0,0.0,0.0,499.0
+237,2021-12-01,False,"Crooks, Carroll and Powlowski", New Mexico,Alice,Spiderman,Bronze,6487.0,0.0,0.0,6487.0
+238,2022-01-03,False,D'Amore - Gusikowski, Rhode Island,Agus Budi,Deadpool,Silver,,,,
+239,2022-01-05,True,Metz and Sons, Wyoming,Alice,Spiderman,Bronze,0.0,0.0,3000.0,3000.0
+240,2022-01-11,True,"Terry, Rau and Tillman", Utah,George,Ironman,Gold,,,,
+241,2022-01-14,True,"McCullough, Wisozk and Keebler", Colorado,Sapu Jagad,Gundala,Bronze,,,,
+242,2022-01-24,True,Quigley - Jast, Arkansas,Sapu Jagad,Gundala,Bronze,2994.0,0.0,0.0,2994.0
+243,2022-01-25,True,Lesch Group, West Virginia,Alice,Deadpool,Gold,4994.0,0.0,0.0,4994.0
+244,2022-01-31,False,Robel - Prohaska, California,Sapu Jagad,Spiderman,Bronze,9628.289999999999,0.0,0.0,9628.29
+245,2022-02-04,False,Weissnat Inc, North Dakota,Agus Budi,Deadpool,Silver,,,,
+246,2022-02-08,True,"Bosco, Mertz and Macejkovic", California,George,Ironman,Silver,,,,
+247,2022-02-14,False,"Lang, Kiehn and Walter", Hawaii,Agus Budi,Spiderman,Bronze,2994.0,0.0,0.0,2994.0
+248,2022-02-16,False,"Watsica, Dietrich and Miller", New Jersey,Agus Budi,Gundala,Bronze,,,,
+249,2022-02-24,True,Collier Inc, North Carolina,Agus Budi,Spiderman,Bronze,499.0,0.0,0.0,499.0
+250,2022-02-24,True,MacGyver - Dickinson, Louisiana,George,Spiderman,Bronze,,,,
+251,2022-03-01,True,Monahan LLC, North Dakota,Agus Budi,Spiderman,Bronze,,,,
+252,2022-03-02,True,Ziemann - Zemlak, Maryland,George,Spiderman,Silver,499.0,0.0,2495.0,2994.0
+253,2022-03-11,True,"Harber, Mitchell and Bailey", Ohio,George,Wolverine,Bronze,12361.25,0.0,0.0,12361.25
+254,2022-03-28,True,Harris Inc, New Mexico,Agus Budi,Wolverine,Bronze,72355.0,0.0,0.0,72355.0
+255,2022-04-01,True,"Johnston, Cronin and Fisher", New York,Sapu Jagad,Gundala,Bronze,998.0,0.0,0.0,998.0
+256,2022-04-05,False,Welch and Sons, Maine,Agus Budi,Ironman,Bronze,,,,
+257,2022-04-05,True,"Abshire, Connelly and Kuvalis", Rhode Island,Alice,Spiderman,Bronze,,,,
+258,2022-04-06,False,Runolfsson Group, Maryland,Agus Budi,Ironman,Bronze,499.0,0.0,0.0,499.0
+259,2022-04-20,False,Langosh LLC, Arizona,Sapu Jagad,Wolverine,Bronze,499.0,0.0,0.0,499.0
+260,2022-04-26,False,Kub - Reichel, New Hampshire,Sapu Jagad,Deadpool,Bronze,3992.0,0.0,0.0,3992.0
+261,2022-05-09,False,"Ruecker, Roberts and Lowe", Rhode Island,Sapu Jagad,Gundala,Custom,,,,
+262,2022-05-09,False,Kris - Anderson, New Mexico,Agus Budi,Ironman,Bronze,,,,
+263,2022-05-12,False,Conn Group, South Dakota,Sapu Jagad,Spiderman,Bronze,,,,
+264,2022-05-24,False,Spinka - McKenzie, Maine,George,Ironman,Bronze,4990.0,0.0,0.0,4990.0
+265,2022-06-06,False,Marks and Sons, Virginia,Agus Budi,Spiderman,Bronze,8982.0,0.0,0.0,8982.0
+266,2022-06-14,False,Stark Group, West Virginia,George,Gundala,Bronze,,,,
+267,2022-06-19,False,Lemke LLC, Mississippi,George,Deadpool,Bronze,,,,
+268,2022-06-20,True,Towne Group, Nebraska,Agus Budi,Deadpool,Silver,4495.0,0.0,1123.75,5618.75
+269,2022-06-20,False,Borer and Sons, Pennsylvania,Agus Budi,Gundala,Bronze,3371.25,0.0,0.0,3371.25
+270,2022-06-22,True,Stokes - Kessler, Rhode Island,Agus Budi,Gundala,Bronze,2495.0,0.0,0.0,2495.0
+271,2022-06-27,False,Nienow - Friesen, South Dakota,George,Deadpool,Gold,,,,
+272,2022-06-28,True,"Nienow, Kertzmann and Bayer", North Dakota,Alice,Wolverine,Gold,,,,
+273,2022-06-30,True,Rosenbaum Inc, New York,Agus Budi,Gundala,Bronze,,,,
+274,2022-07-04,False,Haley - Mayer, Nevada,George,Deadpool,Bronze,,,,
+275,2022-07-06,False,"Sauer, Krajcik and Wilkinson", Montana,Agus Budi,Ironman,Bronze,2994.0,0.0,0.0,2994.0
+276,2022-07-06,False,"Berge, Schowalter and Bauch", Rhode Island,Alice,Gundala,Bronze,,,,
+277,2022-07-12,False,Thompson and Sons, North Dakota,Alice,Deadpool,Silver,5994.0,0.0,0.0,5994.0
+278,2022-07-20,False,Nolan - Daugherty, Kansas,Agus Budi,Ironman,Bronze,,,,
+279,2022-07-21,False,Aufderhar - Block, Mississippi,George,Gundala,Bronze,,,,
+280,2022-07-29,False,Mitchell - Smitham, Michigan,Agus Budi,Spiderman,Bronze,2994.0,0.0,0.0,2994.0
+281,2022-08-24,False,Hegmann Inc, New Hampshire,Sapu Jagad,Spiderman,Bronze,,,,
+282,2022-08-24,False,Klocko LLC, Pennsylvania,George,Deadpool,Bronze,,,,
+283,2022-08-25,True,Orn - Rippin, Utah,George,Deadpool,Bronze,,,,
+284,2022-09-01,False,Zieme - Block, Florida,George,Gundala,Bronze,,,,
+285,2022-09-01,False,"Hansen, Kunde and Hansen", Illinois,Sapu Jagad,Spiderman,Bronze,,,,
+286,2022-09-06,False,Goyette Inc, Arizona,Sapu Jagad,Deadpool,Silver,10488.0,0.0,499.0,10987.0
+287,2022-09-14,False,"O'Hara, Johnson and Botsford", Rhode Island,Sapu Jagad,Spiderman,Bronze,1996.0,0.0,499.0,2495.0
+288,2022-09-22,True,Koch - Fritsch, Missouri,Sapu Jagad,Spiderman,Bronze,499.0,0.0,0.0,499.0
+289,2022-09-23,False,"Mayer, Mills and Bradtke", Oklahoma,Sapu Jagad,Ironman,Bronze,,,,
+290,2022-09-29,False,Goodwin Inc, Virginia,Sapu Jagad,Ironman,Silver,9219.96,0.0,0.0,9219.96
+291,2022-09-29,False,Boyle - Mayert, Maine,Sapu Jagad,Gundala,Bronze,499.0,0.0,0.0,499.0
+292,2022-10-05,False,Wilderman - Bahringer, Oklahoma,Agus Budi,Ironman,Gold,,,,
+293,2022-10-10,False,"Reilly, Breitenberg and Hudson", Maine,Sapu Jagad,Spiderman,Silver,,,,
+294,2022-10-24,False,Grant LLC, New York,Sapu Jagad,Spiderman,Bronze,,,,
+295,2022-10-31,False,Baumbach LLC, Florida,Sapu Jagad,Gundala,Bronze,,,,
+296,2022-11-07,False,Kirlin Inc, West Virginia,Agus Budi,Spiderman,Bronze,,,,
+297,2022-11-23,False,"Bogan, Russel and Wolff", Montana,Agus Budi,Wonderwoman,Bronze,,,,
+298,2022-11-23,False,"Runolfsdottir, Dibbert and Gorczany", Michigan,Alice,Gundala,Bronze,,,,
+299,2022-11-24,False,"Larson, Johns and Lueilwitz", Nebraska,Sapu Jagad,Deadpool,Bronze,,,,
+300,2022-12-14,False,"Price, Ziemann and Stokes", Montana,Sapu Jagad,Ironman,Silver,,,,
