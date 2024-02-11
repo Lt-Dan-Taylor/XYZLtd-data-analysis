@@ -2,6 +2,20 @@ import pandas as pd
 import numpy as np
 
 class Transform:
+    """
+    A class to handle data trasformation from `Extract` class extracted DataFrames.
+    
+    This class takes extracted DataFrames from the `Extract` class and applies
+    transformations to prepare them for analysis. It handles data cleaning,
+    feature engineering, and aggregation tasks.
+    
+    Methods:
+        + `__init__`: Initializes the object with extracted DataFrames.
+        + `__call__`: Returns transformed DataFrames.
+        + `transformed_membership`: Transforms and cleans membership data.
+        + `transformed_logs`: Transforms, filters, and aggregates logs data.
+        + `transform_transactions`: Transforms, aggregates, and converts currency in transactions data.
+    """
     def __init__(self, membership_df, logs_df, transactions_df, currency_exchange_rate):
         self.membership_df = membership_df
         self.logs_df = logs_df
@@ -24,14 +38,14 @@ class Transform:
         # Transform columns
         date_columns = [col for col in df.columns if any(substring in col.lower() for substring in ['date', 'time'])]
         df[date_columns] = df[date_columns].apply(pd.to_datetime, errors='coerce')
-
+    
         df['membership_id'] = df['membership_id'].astype('int32')
         df['country_state'] = df['billing_address'].str.split(',').str[4]
-
+    
         # Filter the columns
         main_columns = ['membership_id', 'creation_date', 'company', 'country_state', 'key_account_manager', 'animation_team', 'membership_plan', 'membership_amount', 'currency']
         df = df[main_columns]
-
+    
         return df
 
     def transform_logs(self, df):

@@ -1,10 +1,24 @@
 import pandas as pd
 
 class Load:
+    """
+    A class that loads and combines transformed data into a final DataFrame.
+    
+    This class takes the transformed DataFrames from the `Transform` class and
+    merges them into a single, comprehensive DataFrame for analysis and save it to a CSV file.
+    
+    Methods:
+        + `__init__`: Initializes the object with transformed DataFrames.
+        + `__call__`: Returns the final DataFrame.
+        + `main_dataframe`: Creates and saves the final combined DataFrame.
+    """
     def __init__(self, transformed_membership, transformed_logs, transformed_transactions):
         self.transformed_membership = transformed_membership
         self.transformed_logs = transformed_logs
         self.transformed_transactions = transformed_transactions
+        
+    def __call__(self):
+        return self.main_df
 
     def main_dataframe(self):
         # Merging the three dataframes
@@ -27,4 +41,6 @@ class Load:
                            'additional_service_total', 'charged_total']]
 
         # Save the dataframe to CSV
-        main_df.to_csv('XYZ_Customer_Analysis_2019-2022.csv', sep=',', index=False)
+        main_df.to_csv('XYZ_Data_Analysis_2019-2022.csv', sep=',', index=False)
+        
+        return main_df
